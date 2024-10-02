@@ -1,6 +1,10 @@
 # GLaDOS Text-to-speech (TTS) Voice Generator
 Neural network based TTS Engine.
 
+
+--- You can also use the cli version to just call the command with what you want it to say 
+
+
 If you want to just play around with the TTS, this works as stand-alone.
 ```console
 python3 glados-tts/glados.py
